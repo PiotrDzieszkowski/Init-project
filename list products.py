@@ -9,3 +9,5 @@ for value in shopping_list:
     count = len(value_list)
     total += count
 print("W sumie kupuję", {total}, "produktów")
+
+print("Hiszpanska inkwizycja")
